@@ -1,4 +1,5 @@
 # Differential Gaussian Rasterization with Camera Pose Jacobians
+* This fork changed package name from diff_gaussian_rasterization to diff_gaussian_rasterization_with_pose for usage.
 
 This software is used as the rasterization engine in the paper ["Gaussian Splatting SLAM"](https://arxiv.org/abs/2312.06741), and supports:
 
